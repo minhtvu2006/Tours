@@ -48,24 +48,3 @@ $ yarn start
 ```
 
 ! You need check API in index.contants.js;
-
-### DEMO:
-
-- Link video DEMO: 
-+ version 1: https://www.youtube.com/watch?v=uulm3fSYRwU
-+ User: https://www.youtube.com/watch?v=tbcag1U2tVI
-+ Admin: https://www.youtube.com/watch?v=X4arkZUxkAE
-+ All: https://youtu.be/_raNK7UWvpw (not full)
-
-- ADMIN: http://admin-kinhdoanhtourdulich.herokuapp.com/ gọi để biết username - password (nếu anh/chị xem CV của em)
-- USER: http://kinhdoanhtourdulich.herokuapp.com/
-- API (old): https://api-kinhdoanhtourdulich.herokuapp.com/
-- API (new): https://ithoangtan.online/tours (hihi, tên miền rẻ thì mình dùng thôi)
-
-### Todos
-
-### Issue
-
-- heroku upload file: https://help.heroku.com/K1PPS2WM/why-are-my-file-uploads-missing-deleted
-
-## License
